@@ -1,4 +1,4 @@
-# WASP- 8 ESP32 Nodes CSI Receiver Array
+# WASP - Wi-Fi Active Sensing Platform
 
 🚧 **This board is currently under active development** 🚧
 
